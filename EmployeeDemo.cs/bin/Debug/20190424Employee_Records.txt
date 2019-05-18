@@ -1,0 +1,2 @@
+Employee Information: 1. ID number - 32- 2. Name - Sydnni- 3. Salary - $35,000.00
+This employee's paycheck is $1,346.15

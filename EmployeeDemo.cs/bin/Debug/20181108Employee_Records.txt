@@ -1,0 +1,6 @@
+Employee Information: 1. ID number - 351- 2. Name - luigi- 3. Salary - $30,000.00
+This employee's paycheck is $1,153.85
+Employee Information: 1. ID number - 694- 2. Name - syd- 3. Salary - $40,000.00
+This employee's paycheck is $1,538.46
+Employee Information: 1. ID number - 152- 2. Name - Gavin- 3. Salary - $70,000.00
+This employee's paycheck is $2,692.31

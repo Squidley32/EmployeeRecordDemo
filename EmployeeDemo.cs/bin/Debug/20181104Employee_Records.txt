@@ -1,0 +1,8 @@
+Employee Information: 1. ID number - 32- 2. Name - Sydnni- 3. Salary - $20,000.00
+This employee's paycheck is $769.23
+Employee Information: 1. ID number - 43- 2. Name - Raygene- 3. Salary - $50,000.00
+This employee's paycheck is $1,923.08
+Employee Information: 1. ID number - 32- 2. Name - Sydnni- 3. Salary - $20,000.00
+This employee's paycheck is $769.23
+Employee Information: 1. ID number - 43- 2. Name - Raygene- 3. Salary - $60,000.00
+This employee's paycheck is $2,307.69

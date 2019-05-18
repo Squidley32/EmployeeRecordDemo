@@ -1,0 +1,14 @@
+C:\Users\Lifetime Roofing STL\source\repos\EmployeeDemo.cs\EmployeeDemo.cs\bin\Debug\EmployeeDemo.cs.exe.config
+C:\Users\Lifetime Roofing STL\source\repos\EmployeeDemo.cs\EmployeeDemo.cs\bin\Debug\EmployeeDemo.cs.exe
+C:\Users\Lifetime Roofing STL\source\repos\EmployeeDemo.cs\EmployeeDemo.cs\bin\Debug\EmployeeDemo.cs.pdb
+C:\Users\Lifetime Roofing STL\source\repos\EmployeeDemo.cs\EmployeeDemo.cs\obj\Debug\EmployeeDemo.csproj.CoreCompileInputs.cache
+C:\Users\Lifetime Roofing STL\source\repos\EmployeeDemo.cs\EmployeeDemo.cs\obj\Debug\EmployeeDemo.cs.exe
+C:\Users\Lifetime Roofing STL\source\repos\EmployeeDemo.cs\EmployeeDemo.cs\obj\Debug\EmployeeDemo.cs.pdb
+C:\Users\Lifetime Roofing STL\source\repos\EmployeeDemo.cs\EmployeeDemo.cs\obj\Debug\EmployeeDemo.csprojAssemblyReference.cache
+C:\Users\saahl\Desktop\Source\repos\2. Intro To Programming Cluster 2\Homework\EmployeeDemo.cs\EmployeeDemo.cs\bin\Debug\EmployeeDemo.cs.exe.config
+C:\Users\saahl\Desktop\Source\repos\2. Intro To Programming Cluster 2\Homework\EmployeeDemo.cs\EmployeeDemo.cs\bin\Debug\EmployeeDemo.cs.exe
+C:\Users\saahl\Desktop\Source\repos\2. Intro To Programming Cluster 2\Homework\EmployeeDemo.cs\EmployeeDemo.cs\bin\Debug\EmployeeDemo.cs.pdb
+C:\Users\saahl\Desktop\Source\repos\2. Intro To Programming Cluster 2\Homework\EmployeeDemo.cs\EmployeeDemo.cs\obj\Debug\EmployeeDemo.csprojAssemblyReference.cache
+C:\Users\saahl\Desktop\Source\repos\2. Intro To Programming Cluster 2\Homework\EmployeeDemo.cs\EmployeeDemo.cs\obj\Debug\EmployeeDemo.csproj.CoreCompileInputs.cache
+C:\Users\saahl\Desktop\Source\repos\2. Intro To Programming Cluster 2\Homework\EmployeeDemo.cs\EmployeeDemo.cs\obj\Debug\EmployeeDemo.cs.exe
+C:\Users\saahl\Desktop\Source\repos\2. Intro To Programming Cluster 2\Homework\EmployeeDemo.cs\EmployeeDemo.cs\obj\Debug\EmployeeDemo.cs.pdb

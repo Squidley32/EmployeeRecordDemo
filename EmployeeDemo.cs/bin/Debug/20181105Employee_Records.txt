@@ -1,0 +1,8 @@
+Employee Information: 1. ID number - 666- 2. Name - joe tidwell- 3. Salary - $120,000.00
+This employee's paycheck is $4,615.38
+Employee Information: 1. ID number - 43- 2. Name - Sydnni- 3. Salary - $30,000.00
+This employee's paycheck is $1,153.85
+Employee Information: 1. ID number - 420- 2. Name - Joe Tidwell- 3. Salary - $120,000.00
+This employee's paycheck is $4,615.38
+Employee Information: 1. ID number - 666- 2. Name - Gavin Carter- 3. Salary - $1.00
+This employee's paycheck is $0.04
